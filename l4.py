@@ -4,7 +4,7 @@ def mx(my_list):
     max = 0
     x = 0
     y = len(my_list)
-    for i in range(y) :                  #heeeeeeeeeeeeeeeeeeeeeeeelo
+    for i in range(y) :                  
         if my_list[x] > max :
             max = my_list[x]
         x += 1
